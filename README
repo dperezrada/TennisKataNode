@@ -1,5 +1,0 @@
-# INSTALL
-npm install -d
-
-#RUN TESTS
-make test

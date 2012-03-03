@@ -6,5 +6,3 @@ api:
 
 object:
 	@./node_modules/expresso/bin/expresso ./test/test_object.js
-
-.PHONY: all
