@@ -1,0 +1,9 @@
+{
+    "name": "tennis_match"
+  , "version": "0.0.1"
+  , "dependencies": {
+	  "express": ">= 0.0.1"
+	, "expresso": ">= 0.0.1"
+	, "should": ">= 0.0.1"
+  }
+}
